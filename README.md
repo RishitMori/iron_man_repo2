@@ -15,7 +15,7 @@ Follow  steps to create blocks:
      - [scratch-blocks](https://github.com/scratchfoundation/scratch-blocks)
 
 2. **Install Dependencies:**
-   - Install project dependencies using the appropriate package manager (e.g., `npm install`).
+   - Install project dependencies using  `npm install`.
 
 3. **Link Repositories:**
    - Link `scratch-blocks` and `scratch-vm` to `scratch-gui` using `npm link`
@@ -35,4 +35,4 @@ Follow  steps to create blocks:
    - Rebuild `scratch-blocks` by `npm run prepublish` to apply the new changes.
 
 8. **Restart the Project:**
-   - Restart the Scratch project to see the changes.
+   - Restart the  project by `npm start` in scratch-gui.
